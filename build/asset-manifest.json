@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.f0d0bf63.js",
+    "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
+    "static/media/Project1.png": "/static/media/Project1.5d3e75f8f2ffb8de7e01.png",
+    "static/media/Yasmin_Farzan.jpg": "/static/media/Yasmin_Farzan.c1ae3e2be8c1481f38f9.jpg",
+    "static/media/project4.png": "/static/media/project4.209f728429f466a5059b.png",
+    "static/media/Project2.png": "/static/media/Project2.36269eda5ad8b007f4b5.png",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.f0d0bf63.js.map": "/static/js/main.f0d0bf63.js.map",
+    "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f0d0bf63.js"
+  ]
+}
