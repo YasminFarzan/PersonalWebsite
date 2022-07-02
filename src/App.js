@@ -3,10 +3,10 @@ import {BrowserRouter, Route, Routes} from 'react-router-dom'
 import Page from "./components/page.js";
 import ProjectPage from "./components/ProjectPage"
 import MainPage from "./components/MainPage"
-import StocksGraph from "./StocksGraph";
-import P5Comp from "./P5Comp";
-import Grid from "./Grid"
-import NasaClass from "./NasaClass";
+import StocksGraph from "./components/StocksGraph";
+import P5Comp from "./components/P5Comp";
+import Grid from "./components/Grid"
+import NasaClass from "./components/NasaClass";
 
 function App() {
     let inputData = {
